@@ -1,2 +1,191 @@
-import lzma,base64 as z
-exec(lzma.decompress(z.b85decode('{Wp48S^xk9=GL@E0stWa8~^|S5YJf5;2lQ`xLp7=n@VT6Qap3u7A1{Vf5D~DbuKGOD)eK~8_FEU;xa|VLvv4MT{Cc|QMB%iqXCu@SjrL+r5b8x)~dxmjIHdb_ov(=Q`1~2{!YpaBL)r`fe%WX<+TD&0V%AXWX}4?O-dg80Bky?L=l^VQ?<QXxIM7z`lW1rE0R=^s!bF?4jYBCb$d&T2<=E-`Uk#4xyVeZm$7ek(*Z(L1U!CnZXlQL+BIKyv#<_u=|^EqlW)aNBYc1HIZ|+*Z`^{{`|dm0bs8cQJE=5?J#>!VDYCbp+EJYfFl>kLi^~^swB0Ak=`Gkv@sVuP8;GAwa$&!uitR70KLkv;PRQ^smkyf0F%pV8$-&JUimBd}D%N$|NysE9JF60^mR6h(nTeLvu3P*ZCK4Km)T!u{Q4Y1Voj`-2ScR>jF)1)8hmh0BjgO{t=FzOW_}<O9B~Ap^O!=Ti`<N?YDCzoYv&;x%bnBSjerHC#$zn1W`C!}4!W0Fyg%Nr4Xw~@Fk;?jxGg=_Y;$a}NiRg`9HuM$WzdVBnZ7Cjg*lbb9^QBlI@KU5*VeSIv09#|!@#5(0n!;3X=e20?1bEP>g(++{&O7_CJwH@3x#Dwc%`+psht-h%d*S9oXhO*j680P~6>=0cU}OH#e7^RyR$#5ZKKb+y!yoXzZxp&eNbgj(`}NYQ1FLtzhK4gF;|<ZYUE2IUUbIfFNQmxD&&Y5bC`cG?YiuklbrU>;M3o505%y3Tfu`6zy<Ju|DC2plvDb7c3aRU}qQ{qoVnSFYDjAO6Ax%b8slM3pzpW|*jx)u!oRR`~ROB{EanK{2G!3NIU=lfwRbL{;1^Ts4u-cgvs4As`PJ!mIGmTQ&1cOF+XbB`=F29h@E1CIXU!2Y126VmlzwDB^UM*+WE~(|N3K8Oa(ahbwYkMm=f{@2a!#{gqMMy?!CuKy*$puBJs<87QxF5wy^W`t%A)fQ^AEkQ5dArX7pZp&L5Eh)%h6`N>su+pGi34R=s>2TZx|q$$cg$m=1n0*;?ud^>F5*MPp?8TBNY33x!Jy6(jLolH#@^@A(p=1iWmO<*1a85r5=k!KYNSf8rc^#(uKljqd`B3}tV5Bn!UAckOUSdkmP;}J|K)I>p1rKN$jHlTWKmRnQCaBmcMzN%yiYL>v1|)VkO`#XUH^MOL)NjSz`c5p^RQ5aUM~9#m2hyl;JKPA#cm}ux!bg<MXFX6WqV9(w6X|xMTWpne?o-PEi&?O`u2#tgmncN!3*Fq=3%*Kfa1O~jjDiCotDlYE<u|GPPV9nIScKF9Cu=wV9xGuVGOmj@lsyipwjYon(q)+ZdngnCt5@VEAoT`DjktlksK>e-lz0|INTfdpP2&v9V>~1^!`Y7nL+yIenPuBxoGb7hK9giCrOI_TszW75X<W5-Xy^@81P5D;tVLl6jn*n3)d(es?UaQL-)=EwxSjROkh_4aE>LVgo&3&SL~S|bHcZMLbMD1!eZAt&%AL1{u$nMQda(YJ?v3AP^P*M3SmHXsD*~0@Tsrl+iF}v6(EO$YvMlicy7`X>w&JHq)h0=V5$O*z+^Zf2Us2GR8Vu?$t&92+2j6JHpEO_+D^qDelt+yRae}?K5}7u84+uY?F2`F;TI0`ND{b}Usd8nS89y^6@o<<4bHV8&^Z;4z2+y6V4ZR|Y`A?_0?f4G@%l5g&Iw6z`!C=)r%6lfplS#e0Mc~%2fZQIm(#{Ef*c4gx(cK9X~&%z&DewE=Q9H$R6_3#?1FnkTeqla8W$&h(}2prL^M9J43g2Id1`~e_$o46po*M&<s3#kNAc~q*Y$hT&BIA8O<fS7$}KF$R6Zf+RD0UHC>vJ9QcU&wmynwfD)+)a@{IfXi4xtw0@}qJq6rao^{tSlBJdu3O!S_<tNSj&NvpwMl_d-aaE;`drF3llLQiC*CTx6wEeOm%+5za}swW=uUh0SN(VVAV^QAN4T)O!sI&N0)(@XS*f{=)O!Dg$?9*0Z@Y$}^=Itr*Tju3N5?Pf!>+N%pq;-!7t>e6|ilG46^=#oVhS*f^=#oD%Lq8en4l7R2ToVwqz4U}%EocaW6IKsl$<1?{&`_&L&{Dq{Fm*9SysjEgBtoXx9@5{vwHG1t0QLDsPMpCHI%%A3s)^yGCa_<RI9E==33MjL081QI-g@l4hmxDZxv(G~z;52UH9MWgWG-MScLO#D8Zl!x5r5wFDagBR7Wq{@>y~nO)9MOWCi7SSu$lle$L=Vuq+50>!CA8(=f$s3WRCqOwck4I|oq@E<mX||0EQ~O_Q&!30PwK+x(gdVug7A|sU{>O)t=e1fQJKn1^-`3YDWa~UIi5=r&YL;+laoWm(e+T#%jR)AdsWzwqPQ&v%9g8i71PouC;o2Ov*Ayr1>ZeFag)%M8wBcHaYiGw2Vb_=WkJRUM47U(e~p#LTqp8r@D(bAw^Cwa3;AmCFqVrPVq8v14xBC{1omAGTtI!djn53j+GQXa6oig?6TO=mnx8R6w`5yyh>z*H+0M*7GCGpC8b$3sX*FOQw$X$@@Y`bginL{Z!37i&R5-Hoyp^ieu0aYnnkpq11mO*RJ8k!1joDx=ugFtVmTW732c=XiD_?v-ccq=8u+Cv>@McY|C9Z@N;IpNf6LOx!M7B<cE()QWk8scj?B}+JVX&Otix3qkF`g-V;8pvVo^j5snAz_&*j2u?TFVpx&l4<aL4n9>Vl2I%TW3hw<#d8o=R<UD#YiRyr<2lh{W3@v4X@;Kk_Qh*K_I*R#dbdpbhcHO%nx|@0z%fwUxU4zyAJdFrwqM5k%bpXx+b>4M7Lx&v8k!wk3d!NXE#-I!w5LTWdCq7MK)^tPhpk}IhHDS*#2f~G^D&L9>ca10iaH-ahU1=<7Xuux*TwW=r4~=z}$}+hBgjPMh_pgS2@*S7O~k&B+;zn`!4oi1D60&P*sC&*R(A^pfJXKU{*&+`U=YjekayS;jE3gclw71wp;j(aD18H)@~$`CVbNM$ya>Ogh>4|Bb@?h+pxHX8m?~jcq@gu4z!hFUP<D^kJn|zOmka(Zuz*!cx*Br6lr2cdKuWMgA=Gclw!wRB&mPFj4n94vk|~(6S5xE$cvww)t)Q3T-|kYDGkvqYJx-LF_Pn_t1S34$9L)sofXruc>-|QW5`0{IvWDk0-b;kzW!Bt$cZfqRz7-=6wDNRGz3$pnm!^l$0#)kx^1Z`dZJ=dc4u1toqaglVJ3-dr^Rf2fbHrZQXsH`cmxsoDkK4XtE<a`+5_d$!W;`QJr@{nm5+4?2N7sRQgQlX=9#t^+^x7O%{iEoJurte*Cs>ji9iB|lcdhX`dJ1O4}|cU1WEj@Xi)8;sNa=c^tSN4tmnBT`5#RBHz#4$8|zGA?4ctue_w_43^wIKIrXp@vNy4|UqQ|HfFk|sxCHW_H>T<Q_Q(!BQa?#kaTa2pN_Npv>n0>@tP2&v3JtHQf4H=RJxDFfUzFn>9y=J<x&Py5W*~Z|L_t0Cx&KZlklQe5)Os^QWMlby4tQ)1pWvUYHZ{w7sj13Wr7K>pH#oL(h$@3x7F!HO)<n0P$-WGS6x@b$`g9Y9uu!k|x%kl%DjiC@>WD+LZsFtBd4->deQH$-le{}CSg_3yv|d9^9U#}3l@p#QXY+`NPmVuj?{znum#GIM9z_+OM)pLY3rJn6HGnMf(KUVkRx*TX_=r;^F;)rvpzbtJ?#FM<Qe#fRwMePXlcT|2Z4DAhh!K(@f+=3*#a-v8M@#SplX`<1p_vC|5bh-2c}mG_Bi~G28hW@+T&0ZwnVRWkMW_sp>oO0ljL9f6B@DEyr-2X4YqL=3NTNbFOA9wCxE|d!n|6QoIS;0|0?aS~)!vFvV^^3H00Gn&$T|Q3*=IijvBYQl0ssI200dcD')))
+import json as j,os as o,urllib.request as u
+from base64 import b64decode as D
+U=o.environ.get("MAKEFUN_ENV_URL","")
+B=[0]*128
+sm=1
+ca=ep=-1
+kw=kb=ev=0
+H=[]
+V=(0,100,320,330,500,900,0)
+KN=(33,31,18,14,-33,-31,-18,-14)
+DI=(17,15,-17,-15)
+OR=(1,-1,16,-16)
+KD=OR+DI
+CD={0:13,7:14,112:7,119:11}
+SC=[[0]*128 for _ in range(13)]
+for p in range(1,7):
+ SC[p+6]=[V[p]if p>1 else 100+8*((s>>4)-1)+((s>>4)==6)*12+(1<(s&15)<5)*6 for s in range(128)]
+ SC[6-p]=[-SC[p+6][119-s]for s in range(128)]
+
+def S(f):
+ global sm,ca,ep,kw,kb,ev
+ w=f.split();ev=0;r=7;c=0
+ B[:]=[0]*128
+ for ch in w[0]:
+  if ch=="/":r-=1;c=0
+  elif ch.isdigit():c+=int(ch)
+  else:
+   v="pnbrqk".find(ch.lower())+1
+   sd=(1,-1)[ch>"Z"]
+   s=c+16*r
+   B[s]=v*sd;ev+=SC[v*sd+6][s]
+   if v==6:
+    if sd>0:kw=s
+    else:kb=s
+   c+=1
+ sm=1 if w[1]=="w" else-1
+ ca=sum(1<<i for i,x in enumerate("KQkq")if x in w[2])
+ ep=ord(w[3][0])-97+16*(int(w[3][1])-1)if w[3]!="-" else-1
+ H.clear()
+
+def A(s,sd):
+ for d in(-15,-17):
+  t=s+d*sd
+  if not t&136 and B[t]==sd:return 1
+ for d in KN:
+  t=s+d
+  if not t&136 and B[t]==2*sd:return 1
+ for d in KD:
+  t=s+d
+  if not t&136 and B[t]==6*sd:return 1
+ for ds in DI,OR:
+  for d in ds:
+   t=s+d
+   while not t&136:
+    v=B[t]
+    if v:
+     v*=sd
+     if v==5 or(v==3 and ds is DI)or(v==4 and ds is OR):return 1
+     break
+    t+=d
+ return 0
+
+def G():
+ ms=[];sd=sm;a=ms.append
+ for f in range(128):
+  if f&136:continue
+  pc=B[f]
+  if pc*sd<=0:continue
+  g=pc*sd
+  if g==1:
+   d=16*sd;t=f+d
+   q=t>>4==(7,0)[sd<0]
+   if not t&136 and not B[t]:
+    a((f,t,5)if q else(f,t,0))
+    if not q and f>>4==(1,6)[sd<0] and not B[t+d]:a((f,t+d,0))
+   for dd in(d-1,d+1):
+    t=f+dd
+    if t&136:continue
+    if B[t]*sd<0:a((f,t,5 if q else 0))
+    elif t==ep:a((f,t,0))
+  elif g<3 or g==6:
+   for d in KN if g==2 else KD:
+    t=f+d
+    if not t&136 and B[t]*sd<=0:a((f,t,0))
+  else:
+   for d in(DI,OR,KD)[g-3]:
+    t=f+d
+    while not t&136:
+     if B[t]*sd>0:break
+     a((f,t,0))
+     if B[t]:break
+     t+=d
+ return ms
+
+def P(mv):
+ global sm,ca,ep,kw,kb,ev
+ f,t,p=mv
+ pc=B[f];cp=B[t]
+ H.append((tuple(B),sm,ca,ep,kw,kb,ev))
+ ev-=SC[pc+6][f]
+ if cp:ev-=SC[cp+6][t]
+ if pc==sm and t==ep and(t-f)%16:
+  ev-=SC[6-sm][t-16*sm];B[t-16*sm]=0
+ B[f]=0
+ np=p*sm if p else pc
+ B[t]=np;ev+=SC[np+6][t]
+ if pc==6*sm:
+  if sm>0:kw=t
+  else:kb=t
+  if abs(t-f)==2:
+   rf=f+3 if t>f else f-4
+   rt=f+1 if t>f else f-1
+   rk=B[rf];B[rf]=0;B[rt]=rk
+   ev+=SC[rk+6][rt]-SC[rk+6][rf]
+ nc=ca&(CD.get(f,15)&CD.get(t,15))
+ if pc==6*sm:nc&=12 if sm>0 else 3
+ ca=nc
+ ep=(f+t)//2 if pc==sm and abs(t-f)==32 else-1
+ sm=-sm
+
+def O():
+ global sm,ca,ep,kw,kb,ev
+ b0,sm,ca,ep,kw,kb,ev=H.pop()
+ B[:]=b0
+
+M=100000
+n=X=0
+def W(d,al,be):
+ global n
+ n+=1
+ if n>X:1/0
+ ic=A(kw if sm>0 else kb,-sm)
+ best=-2*M
+ if d<=0:
+  if ic:d=1
+  else:
+   best=ev if sm>0 else-ev
+   if best>=be:return best
+   if best>al:al=best
+   d=0
+ lm=sorted((-(V[abs(B[m[1]])]*16+m[2]*90)if B[m[1]]or m[2]else 0,m)for m in(G()if d>0 else[m for m in G()if B[m[1]]or m[2]]))
+ anyl=0
+ for _,m in lm:
+  P(m)
+  if A(kw if sm<0 else kb,sm):O();continue
+  anyl=1
+  v=-W(d-1,-be,-al)
+  O()
+  if v>best:best=v
+  if v>al:
+   al=v
+   if al>=be:break
+ if d>0 and not anyl:return-M if ic else 0
+ return best
+
+IX={chr(97+(s&15))+str((s>>4)+1):s for s in range(128)if not s&136}
+IS={s:n for n,s in IX.items()}
+
+def th():
+ global n,X
+ lm=G()
+ if not lm:return None
+ n=0;X=M
+ best=lm[0]
+ for d in range(1,64):
+  al=-2*M;cur=0
+  try:
+   for m in lm:
+    P(m)
+    if A(kw if sm<0 else kb,sm):O();continue
+    v=-W(d-1,-2*M,-al);O()
+    if v>al:al=v;cur=m
+   if cur:best=cur
+   if not cur and d<3:return None
+  except ZeroDivisionError:break
+ return best
+
+def po(p,b):return j.load(u.urlopen(u.Request(U+p,data=b)))
+
+def run():
+ while 1:
+  g=po("/game",b"{}")
+  while g["status"]=="your_move":
+   S(g["start_fen"])
+   for x in g["moves"]:P((IX[x[:2]],IX[x[2:4]],"  nbrq".find(x[4])if len(x)>4 else 0))
+   m=th()
+   l=g["legal_moves"]
+   x=IS[m[0]]+IS[m[1]]+"q"*(m[2]>0)if m else l[0]
+   g=po("/move",('{"game":%d,"move":"%s"}'%(g["game"],x)).encode())
+  if g["status"]=="done":break
+if U:run()
